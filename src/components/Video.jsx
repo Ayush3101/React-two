@@ -30,16 +30,16 @@ const Video = () => {
           <Heading>Sample Video 1</Heading>
           <Text>
             This is a sample video for testing and demo. This is called
-            description.This is a sample video for testing and demo. This is called
-            description.This is a sample video for testing and demo. This is called
-            description.This is a sample video for testing and demo. This is called
-            description.This is a sample video for testing and demo. This is called
-            description.This is a sample video for testing and demo. This is called
-            description.This is a sample video for testing and demo. This is called
-            description.This is a sample video for testing and demo. This is called
-            description.This is a sample video for testing and demo. This is called
-            description.
-            
+            description.This is a sample video for testing and demo. This is
+            called description.This is a sample video for testing and demo. This
+            is called description.This is a sample video for testing and demo.
+            This is called description.This is a sample video for testing and
+            demo. This is called description.This is a sample video for testing
+            and demo. This is called description.This is a sample video for
+            testing and demo. This is called description.This is a sample video
+            for testing and demo. This is called description.This is a sample
+            video for testing and demo. This is called description.This is a
+            sample video for testing and demo. This is called description.
           </Text>
         </VStack>
       </VStack>
