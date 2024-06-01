@@ -39,7 +39,7 @@ const Video = () => {
             testing and demo. This is called description.This is a sample video
             for testing and demo. This is called description.This is a sample
             video for testing and demo. This is called description.This is a
-            sample video for testing and demo. This is called description.
+            sample video for testing and demo. 
           </Text>
         </VStack>
       </VStack>
